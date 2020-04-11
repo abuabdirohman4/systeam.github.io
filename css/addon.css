@@ -1,0 +1,9 @@
+header.masthead {
+  text-align: center;
+  color: white;
+  background-image: url("../img/thought-catalog-505eectW54k-unsplash.jpg")!important;
+  background-repeat: no-repeat;
+  background-attachment: scroll;
+  background-position: center center;
+  background-size: cover;
+}
